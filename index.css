@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: rgb(77, 69, 69);
+    margin: 0px;
+    padding: 0px;
+    width: 100vw;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+}
+
+
+.link{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 50px;
+    background-color: gray;
+    border-radius: 17px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.links .link:hover{
+    transition: cubic-bezier(.07,1.41,.82,1.41) 0.2s;
+    transform: scale(1.02);
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}

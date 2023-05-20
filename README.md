@@ -1,1 +1,1 @@
-# link-tree-clone
+a hardcoded linktree clone with HTML,CSS,Bootstrap a little Javascript to copying a link
