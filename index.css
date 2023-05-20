@@ -35,7 +35,11 @@ a{
     color: white;
 }
 
+a:hover{
+    color: black;
+}
+
 .copy:hover{
     cursor: pointer;
-    transition: ease-out;
+    color: black;
 }
