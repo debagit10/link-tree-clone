@@ -34,3 +34,8 @@ a{
     text-decoration: none;
     color: white;
 }
+
+.copy:hover{
+    cursor: pointer;
+    transition: ease-out;
+}
